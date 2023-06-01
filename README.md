@@ -9,4 +9,4 @@ php artisan migrate
 php artisan serve
 
 # Port
-http://localhost:8000/
+http://localhost:8000
